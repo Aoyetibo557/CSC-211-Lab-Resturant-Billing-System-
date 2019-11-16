@@ -1,0 +1,4 @@
+﻿  ResturantBillingSystem.cpp
+c:\users\aoyet\desktop\c++ files\spring 2019 c++\resturantbillingsystem\resturantbillingsystem\resturantbillingsystem.cpp(137): warning C4172: returning address of local variable or temporary: bill
+  LINK : C:\Users\aoyet\Desktop\C++ Files\Spring 2019 C++\ResturantBillingSystem\Debug\ResturantBillingSystem.exe not found or not built by the last incremental link; performing full link
+  ResturantBillingSystem.vcxproj -> C:\Users\aoyet\Desktop\C++ Files\Spring 2019 C++\ResturantBillingSystem\Debug\ResturantBillingSystem.exe
